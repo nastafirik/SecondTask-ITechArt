@@ -35,15 +35,15 @@
 		}
 
 
-  		function first(arr) {
+  	function first(arr) {
             return arr[0];
         }
 
 
         function last(arr) {
-			var n=arr.length;
-			var lastIndex=n-1;
-			return arr[lastIndex];
+	    var n=arr.length;
+	    var lastIndex=n-1;
+	    return arr[lastIndex];
         }
 
 
