@@ -47,4 +47,4 @@ var workWithArrays={
 			return arr[lastElem];
         }
 	
-};
+}
