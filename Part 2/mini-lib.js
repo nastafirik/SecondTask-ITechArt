@@ -82,7 +82,7 @@ var mimiLibrary=(function() {
 	   first: arrFirst,
  	   last: arrLast,
 	   take: take,
-	   skip: skip,
-	   asChain: asChain
+	   skip: skip
+	   
 	}
 })();
